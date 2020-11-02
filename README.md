@@ -4,17 +4,5 @@ i am a professional web designer as you will see if you go to https://bonemeal.x
 
 ![Jamie's github stats](https://github-readme-stats.vercel.app/api?username=bonexd&show_icons=true&count_private=true)
 ```
-        _                            
-       (_)                           
-   __ _ ___   _____   _ __ ___   ___ 
-  / _` | \ \ / / _ \ | '_ ` _ \ / _ \
- | (_| | |\ V /  __/ | | | | | |  __/
-  \__, |_| \_/ \___|_|_| |_| |_|\___|
-   __/ |   (_)     | |               
-  |___/     _  ___ | |__             
-  / _` |   | |/ _ \| '_ \            
- | (_| |   | | (_) | |_) |           
-  \__,_|   | |\___/|_.__/            
-          _/ |                       
-         |__/                 
+cunt
 ```
