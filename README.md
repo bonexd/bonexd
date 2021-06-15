@@ -1,6 +1,7 @@
-hello yes this is my github profile what could you POSSIBLY want?
+Website: https://jazza.com.au
 
-i am a professional web designer as you will see if you go to https://bonemeal.xyz
+IRC: irc://i.fucking.hate.westerndigital.lol:6667
+
 ```
                       __                _           __                  
   ____  ______  __    \ \     _      __(_)___  ____/ /___ _      _______
