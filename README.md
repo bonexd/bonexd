@@ -1,3 +1,5 @@
+This is my github account, here you can find a few years worth of projects that should have never existed and should probably be wiped off the face of the earth. I have nothing worth looking at. Thank you.
+
 Quick rundown:
 - Currently failing VCE
 - Haswell Enthusiast
